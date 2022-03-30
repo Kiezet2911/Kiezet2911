@@ -57,6 +57,6 @@ Here are some ideas to get you started:
 <div align="center"> 
   <img src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in&layout=churchill&font=Redressed"/>
 </div>
-<div align="center">
+<div style="border: 20%;" align="center">
   <img src="https://i.imgur.com/Z9bdip0.gif"/>
 </div>
