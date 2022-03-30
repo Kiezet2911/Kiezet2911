@@ -14,11 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### Hi there 👋
-<p>I'm Huy from VietNam and you can call me Yuh or Yuhtaro.</p>
+<p>I'm Kiệt from VietNam and you can call me Kiezet.</p>
 <p>I'm a 4th year student of HUTECH.</p>
-<p>I really love to find out some cool UI Design and make it.</p>
+<p>I really love Code.</p>
 
 <h2 align="center">Where To Find Me</h2>
 <div align="center">
@@ -28,7 +26,7 @@ Here are some ideas to get you started:
 </div>
 <div align="center">
   <a href="https://chat.zalo.me/?g=zkzkcx021" target="blank">
-    <img src="https://giaidapviet.com/wp-content/uploads/2021/05/558_6.png" alt="Kiezet2911-facebook" />
+    <img src="https://img.icons8.com/cute-clipart/2x/zalo.png" alt="Kiezet2911-zalo" />
   </a>
 </div>
 <br />
