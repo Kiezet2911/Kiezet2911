@@ -58,5 +58,5 @@ Here are some ideas to get you started:
   <img src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in&layout=churchill&font=Redressed"/>
 </div>
 <div align="center">
-  <img src="https://www.reddit.com/r/animegifs/comments/4d8mmb/hype_head_nods_boku_no_hero_academia/"/>
+  <img src="https://i.imgur.com/Z9bdip0.gif"/>
 </div>
